@@ -1,2 +1,0 @@
-# raspberryPi-faceAlarm
-raspberryPi-faceAlarm
